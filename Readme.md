@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc09bfcd-21e4-4971-8ca6-b90152237f76)<h1>Medical Expenses/Insurance Cost Prediction Using Machine Learning Regression End To End Project</h1>
+<h1>Medical Expenses/Insurance Cost Prediction Using Machine Learning Regression End To End Project</h1>
 <img src="https://github.com/goldstring/Medical-Insurance-Cost-Prediction-Using-Machine-Learning-Regression/blob/main/16261749_tp212-blogbanner-02.jpg?raw=true" />
     <h2>What is the dataset about?</h2>
     <p>The dataset contains information about people and their medical expenses (insurance charges). It has factors like:</p>
@@ -21,6 +21,8 @@
         <h3>How can machine learning help health insurance companies?</h3>
         <p>By making accurate predictions, insurance companies can price policies better and reduce risks, which can help them be more profitable and efficient.</p>
     </div>
+    <h2>Model Performance</h2>
+    <img src="https://github.com/goldstring/Medical-Insurance-Cost-Prediction-Using-Machine-Learning-Regression/blob/main/models_performance.png?raw=true" />
     <h2>Output</h2>
     <img src="https://github.com/goldstring/Medical-Insurance-Cost-Prediction-Using-Machine-Learning-Regression/blob/main/project_output.png?raw=true"/>
     <h2>In Short:</h2>
